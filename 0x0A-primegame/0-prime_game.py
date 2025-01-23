@@ -14,7 +14,7 @@ def isWinner(x, nums):
 
     Args:
         x (int): The number of rounds to play.
-        nums (list of int): A list of integers where each integer `n` represents
+        nums (list of int): A list of integers where each integer'n'
             a set of consecutive integers from 1 to `n`.
 
     Returns:
