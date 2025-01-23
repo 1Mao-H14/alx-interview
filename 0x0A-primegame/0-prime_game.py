@@ -1,5 +1,11 @@
 #!/usr/bin/python3
-"""Module for Prime Game"""
+"""Module for Prime Game.
+
+This module contains functions to simulate a game where two players take turns
+removing prime numbers and their multiples from a set of consecutive integers.
+The player who cannot make a move loses the round. The module determines the
+winner of multiple rounds of this game.
+"""
 
 
 def isWinner(x, nums):
