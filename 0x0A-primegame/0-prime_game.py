@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-"""
-A Module containes the isWinner function
-"""
+"""Module for Prime Game"""
 
 
 def isWinner(x, nums):
