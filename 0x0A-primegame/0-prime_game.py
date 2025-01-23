@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-"""Module for Prime Game.
+"""Prime Game Module.
 
-This module contains functions to simulate a game where two players take turns
+This module simulates a game between two players, Maria and Ben, who take turns
 removing prime numbers and their multiples from a set of consecutive integers.
 The player who cannot make a move loses the round. The module determines the
 winner of multiple rounds of this game.
