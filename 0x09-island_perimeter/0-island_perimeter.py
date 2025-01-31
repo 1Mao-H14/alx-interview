@@ -9,7 +9,7 @@ def island_perimeter(grid):
     Calculates the perimeter of the island in the grid.
 
     Args:
-        grid (List[List[int]]): A 2D list where 1 represents land and 0 represents water.
+        grid (List[List[int]]): A 2D list where 1 represents land and 0
 
     Returns:
         int: The perimeter of the island.
